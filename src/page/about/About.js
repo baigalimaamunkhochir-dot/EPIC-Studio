@@ -8,13 +8,13 @@ export default function About() {
       <div className="row">
         <div className="image-container">
           <img src="about.webp" alt="about us image" />
-          <h3>Leading Self Studio</h3>
+          <h3>Шилдэг Хувийн Студио</h3>
         </div>
         <div className="content">
-          <h3>why choose us?</h3>
-          <p>At Epic Studio, we believe great portraits start with comfort and creative freedom. That’s why we’ve designed a space where you can take full control of your own shoot — no photographer, no pressure. Our private, beautifully lit booths are equipped with studio-quality lighting and easy-to-use systems, so you can pose, explore, and create at your own pace.</p>
-          <p>Trusted by individuals, couples, and creatives across the city, Epic Studio makes self-portraiture simple — and unforgettable.</p>
-          <a href="#" className="btn">learn more</a>
+          <h3>яагаад биднийг сонгох вэ?</h3>
+          <p>Epic Studio-д бид гайхалтай хөрөг зураг тав тух, бүтээлч эрх чөлөөнөөс эхэлдэг гэдэгт итгэдэг. Тийм ч учраас бид зурагчин, дарамт шахалтгүйгээр өөрийнхөө зураг авалтыг бүрэн хянах боломжтой орон зайг зохион бүтээсэн. Манай хувийн, гоёмсог гэрэлтүүлэгтэй лангуунууд нь студийн чанартай гэрэлтүүлэг, ашиглахад хялбар системээр тоноглогдсон тул та өөрийн хүссэнээр зураг авах, судлах, бүтээх боломжтой.</p>
+          <p>Хотын өнцөг булан бүрт байгаа хувь хүн, хосууд болон уран бүтээлчид итгэж сонгодог Epic Studio нь өөрийн хөрөг зургийг авах үйл явцыг хялбар бөгөөд мартагдашгүй болгодог.</p>
+          <a href="#" className="btn">дэлгэрэнгүй</a>
         </div>
       </div>
     </section>
