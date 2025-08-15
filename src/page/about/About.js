@@ -4,7 +4,7 @@ import './About.css';
 export default function About() {
   return (
     <section className="about" id="about">
-      <h1 className="heading"><span>About</span> Us</h1>
+      <h1 className="heading"><span>Бидний</span> тухай</h1>
       <div className="row">
         <div className="image-container">
           <img src="about.webp" alt="about us image" />
